@@ -117,22 +117,22 @@
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="80"/>
         <source>Save at</source>
-        <translation>Съхрани на</translation>
+        <translation>Запази в</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="345"/>
         <source>Never show again</source>
-        <translation>Не показвай никога повече</translation>
+        <translation>Не показвай отново</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="99"/>
         <source>Torrent settings</source>
-        <translation>Настройки на торента</translation>
+        <translation>Торент настройки</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="132"/>
         <source>Set as default category</source>
-        <translation>Задаване като категория по подразбиране</translation>
+        <translation>Задай като категория по подразбиране</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="107"/>
@@ -152,7 +152,7 @@
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="158"/>
         <source>Skip hash check</source>
-        <translation>Прескочи проверката на парчетата</translation>
+        <translation>Пропусни хеш проверката</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="229"/>
@@ -162,7 +162,7 @@
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="302"/>
         <source>Hash:</source>
-        <translation>Отпечатък:</translation>
+        <translation>Хеш:</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="309"/>
@@ -177,12 +177,12 @@
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="41"/>
         <source>Torrent Management Mode:</source>
-        <translation>Торентов Режим на Управление:</translation>
+        <translation>Режим управление на торенти:</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="48"/>
         <source>Automatic mode means that various torrent properties(eg save path) will be decided by the associated category</source>
-        <translation>Автоматичен режим значи, че различни настройки на торент (н. пр. местоположение) ще бъдат решени от асоциираната категория</translation>
+        <translation>Автоматичен режим означава, че различните свойства на торента (напр. Запис на пътя) ще се определят от асоциираната категория</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="52"/>
@@ -197,22 +197,22 @@
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="89"/>
         <source>Remember last used save path</source>
-        <translation>Запомни последното място за съхранение</translation>
+        <translation>Запомни последния използван път за запис</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="141"/>
         <source>When checked, the .torrent file will not be deleted despite the settings at the &quot;Download&quot; page of the options dialog</source>
-        <translation>Когато е отметнато, .torrent файлът не ще бъде изтрит независимо от настройките, който са на страницата &quot;Сваляне&quot; в диалога на настройките</translation>
+        <translation>Когато е отметнато, .torrent файлът не ще бъде изтрит независимо от настройките, който са на страницата &quot;Изтегляне&quot; в диалога с опциите</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="144"/>
         <source>Do not delete .torrent file</source>
-        <translation>Без изтриване на .torrent файла</translation>
+        <translation>Не изтривай .torrent файла</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="172"/>
         <source>Create subfolder</source>
-        <translation>Създаване на поддиректория</translation>
+        <translation>Създай подпапка</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="165"/>
@@ -253,7 +253,7 @@
         <location filename="../gui/addnewtorrentdialog.cpp" line="464"/>
         <location filename="../gui/addnewtorrentdialog.cpp" line="600"/>
         <source>I/O Error</source>
-        <translation>Грешка на Вход/Изход</translation>
+        <translation>Грешка Вход/Изход</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.cpp" line="265"/>
@@ -281,7 +281,7 @@
     <message>
         <location filename="../gui/addnewtorrentdialog.cpp" line="309"/>
         <source>Invalid magnet link</source>
-        <translation>Невалидна магнитна връзка</translation>
+        <translation>Невалиден магнитен линк</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.cpp" line="266"/>
@@ -295,22 +295,22 @@ Error: %2</source>
     <message>
         <location filename="../gui/addnewtorrentdialog.cpp" line="309"/>
         <source>This magnet link was not recognized</source>
-        <translation>Тази магнитна връзка не се разпознава</translation>
+        <translation>Магнитната връзка не е разпозната</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.cpp" line="338"/>
         <source>Magnet link</source>
-        <translation>Магнитна връзка</translation>
+        <translation>Магнитна линк</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.cpp" line="344"/>
         <source>Retrieving metadata...</source>
-        <translation>Извличане на метаданни...</translation>
+        <translation>Извлича метаданни...</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.cpp" line="104"/>
         <source>Choose save path</source>
-        <translation>Избери път за съхранение</translation>
+        <translation>Изберете път за запис</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.cpp" line="286"/>
@@ -331,7 +331,7 @@ Error: %2</source>
     <message>
         <location filename="../gui/addnewtorrentdialog.cpp" line="291"/>
         <source>Torrent &apos;%1&apos; is already in the transfer list. Trackers have been merged.</source>
-        <translation>Торентът &apos;%1&apos; е вече в списъка за сваляне. Тракерите бяха обединени.</translation>
+        <translation>Торентът &apos;%1&apos; е вече в списъка. Тракерите са обединени.</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.cpp" line="295"/>
@@ -341,7 +341,7 @@ Error: %2</source>
     <message>
         <location filename="../gui/addnewtorrentdialog.cpp" line="325"/>
         <source>Magnet link &apos;%1&apos; is already in the transfer list. Trackers have been merged.</source>
-        <translation>Магнитната връзка &quot;%1&quot; е вече в списъка. Тракерите бяха обединени.</translation>
+        <translation>Магнитната връзка &quot;%1&quot; е вече в списъка. Тракерите са обединени.</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.cpp" line="329"/>
@@ -377,17 +377,17 @@ Error: %2</source>
     <message>
         <location filename="../gui/addnewtorrentdialog.cpp" line="510"/>
         <source>Priority</source>
-        <translation>Предимство</translation>
+        <translation>Проритет</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.cpp" line="601"/>
         <source>Invalid metadata</source>
-        <translation>Не валидни метаданни</translation>
+        <translation>Невалидни метаданни</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.cpp" line="608"/>
         <source>Parsing metadata...</source>
-        <translation>Проверка на метаданните...</translation>
+        <translation>Проверка на метаданни...</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.cpp" line="612"/>
@@ -418,39 +418,39 @@ Error: %2</source>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="477"/>
         <source>Outgoing ports (Min) [0: Disabled]</source>
-        <translation>Изходен порт (Мин) [0: Изключен]</translation>
+        <translation>Изходящи портове (Мин) [0: Изключен]</translation>
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="482"/>
         <source>Outgoing ports (Max) [0: Disabled]</source>
-        <translation>Изходен порт (Макс) [0: Изключен]</translation>
+        <translation>Изходящи портове (Макс) [0: Изключен]</translation>
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="503"/>
         <source>Recheck torrents on completion</source>
-        <translation>Провери торентите при завършване</translation>
+        <translation>Повторна проверка на торентите при завършване</translation>
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="509"/>
         <source>Transfer list refresh interval</source>
-        <translation>Интервал на обновяване на списъка за трансфер</translation>
+        <translation>Интервал на обновяване на списъка с трансфери</translation>
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="508"/>
         <source> ms</source>
         <comment> milliseconds</comment>
-        <translation>мс</translation>
+        <translation>ms</translation>
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="131"/>
         <source>Setting</source>
-        <translation>Настройка</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="131"/>
         <source>Value</source>
         <comment>Value set for this setting</comment>
-        <translation>Стойност</translation>
+        <translation>Зададена стойност за тази настройка</translation>
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="275"/>
@@ -467,7 +467,7 @@ Error: %2</source>
         <location filename="../gui/advancedsettings.cpp" line="285"/>
         <source> min</source>
         <comment> minutes</comment>
-        <translation>мин</translation>
+        <translation>min</translation>
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="298"/>
@@ -508,7 +508,7 @@ Error: %2</source>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="352"/>
         <source>Below normal</source>
-        <translation>По-нисък от нормален</translation>
+        <translation>Под нормалното</translation>
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="352"/>
@@ -581,7 +581,7 @@ Error: %2</source>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="440"/>
         <source>Send upload piece suggestions</source>
-        <translation>Изпращане на съвети за частите на качване</translation>
+        <translation>Изпращане на предложения за качване на части</translation>
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="445"/>
@@ -592,7 +592,7 @@ Error: %2</source>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="447"/>
         <source>Send buffer watermark</source>
-        <translation>Изпращане на буферен воден знак</translation>
+        <translation>Изпратете буферен воден знак</translation>
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="453"/>
@@ -707,17 +707,17 @@ Error: %2</source>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="580"/>
         <source>Upload choking algorithm</source>
-        <translation>Задушаващ алгоритъм за качване</translation>
+        <translation>Алгоритъм за заглушаване при качване</translation>
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="585"/>
         <source>Confirm torrent recheck</source>
-        <translation>Потвърждаване на проверка на торент</translation>
+        <translation>Потвърди повторната проверка на торент</translation>
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="589"/>
         <source>Confirm removal of all tags</source>
-        <translation>Потвърдете изтриването на всички тагове</translation>
+        <translation>Потвърди изтриването на всички тагове</translation>
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="593"/>
@@ -835,7 +835,7 @@ Error: %2</source>
     <message>
         <location filename="../app/application.cpp" line="583"/>
         <source>Application failed to start.</source>
-        <translation>Приложението не успя да се стартира</translation>
+        <translation>Приложението не успя да стартира</translation>
     </message>
     <message>
         <location filename="../app/application.cpp" line="596"/>
@@ -909,12 +909,12 @@ Error: %2</source>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="14"/>
         <source>RSS Downloader</source>
-        <translation>RSS Сваляч...</translation>
+        <translation>RSS Downloader</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="28"/>
         <source>Auto downloading of RSS torrents is disabled now! You can enable it in application settings.</source>
-        <translation>Автоматичното сваляне на RSS торенти е сега изключено! Може да го включите в програмните настройки.</translation>
+        <translation>Автоматичното изтегляне на RSS торенти е деактивирано! Може да го активирате от настройките на приложението.</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="59"/>
@@ -945,27 +945,27 @@ Supports the formats: S01E01, 1x1, 2017.01.01 and 01.01.2017 (Date formats also 
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="114"/>
         <source>Must Contain:</source>
-        <translation>Трябва Да Съдържа:</translation>
+        <translation>Трябва да съдържа:</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="121"/>
         <source>Must Not Contain:</source>
-        <translation>Трябва Да Не Съдържа:</translation>
+        <translation>Не трябва да съдържа:</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="128"/>
         <source>Episode Filter:</source>
-        <translation>Филтър за Епизод:</translation>
+        <translation>Епизод Филтър:</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="212"/>
         <source>Assign Category:</source>
-        <translation>Прикачване Категория:</translation>
+        <translation>Присвояване на категория:</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="228"/>
         <source>Save to a Different Directory</source>
-        <translation>Съхрани в Друга Директория</translation>
+        <translation>Запазване в различна директория</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="254"/>
@@ -1014,7 +1014,7 @@ Supports the formats: S01E01, 1x1, 2017.01.01 and 01.01.2017 (Date formats also 
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="375"/>
         <source>Apply Rule to Feeds:</source>
-        <translation>Прилагане на Правила към Каналите:</translation>
+        <translation>Прилагане на правило за емисии:</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="397"/>
@@ -1024,12 +1024,12 @@ Supports the formats: S01E01, 1x1, 2017.01.01 and 01.01.2017 (Date formats also 
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="425"/>
         <source>&amp;Import...</source>
-        <translation>&amp;Импортиране...</translation>
+        <translation>&amp;Импорт...</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="435"/>
         <source>&amp;Export...</source>
-        <translation>&amp;Експортиране...</translation>
+        <translation>&amp;Експорт...</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.cpp" line="88"/>
@@ -1090,7 +1090,7 @@ Supports the formats: S01E01, 1x1, 2017.01.01 and 01.01.2017 (Date formats also 
     <message>
         <location filename="../gui/rss/automatedrssdownloader.cpp" line="63"/>
         <source>Rules (legacy)</source>
-        <translation>Правила (остар.)</translation>
+        <translation>Правила (насл.)</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.cpp" line="96"/>
@@ -1208,7 +1208,7 @@ Supports the formats: S01E01, 1x1, 2017.01.01 and 01.01.2017 (Date formats also 
     <message>
         <location filename="../gui/rss/automatedrssdownloader.cpp" line="493"/>
         <source>Rename rule...</source>
-        <translation>Преименувай правилото...</translation>
+        <translation>Преименувне на правило...</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.cpp" line="497"/>
@@ -1223,12 +1223,12 @@ Supports the formats: S01E01, 1x1, 2017.01.01 and 01.01.2017 (Date formats also 
     <message>
         <location filename="../gui/rss/automatedrssdownloader.cpp" line="518"/>
         <source>Rule renaming</source>
-        <translation>Преименуване на правилото</translation>
+        <translation>Преименувне на правило</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.cpp" line="518"/>
         <source>Please type the new rule name</source>
-        <translation>Моля напишете името на новото правило</translation>
+        <translation>Напишете името на новото правило</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.cpp" line="544"/>
@@ -2402,7 +2402,7 @@ Supports the formats: S01E01, 1x1, 2017.01.01 and 01.01.2017 (Date formats also 
     <message>
         <location filename="../gui/mainwindow.ui" line="99"/>
         <source>&amp;View</source>
-        <translation>&amp;Оглед</translation>
+        <translation>&amp;Преглед</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="180"/>
@@ -5511,7 +5511,7 @@ Manual: Various torrent properties (e.g. save path) must be assigned manually</s
     <message>
         <location filename="../gui/optionsdialog.ui" line="2194"/>
         <source>Privacy</source>
-        <translation>Дискретност</translation>
+        <translation>Поверителност</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2203"/>
@@ -8435,7 +8435,7 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
     <message>
         <location filename="../gui/transferlistfilterswidget.cpp" line="258"/>
         <source>Paused (%1)</source>
-        <translation type="unfinished"></translation>
+        <Пауза (%1)</translation>
     </message>
     <message>
         <location filename="../gui/transferlistfilterswidget.cpp" line="257"/>
@@ -9733,7 +9733,7 @@ Please choose a different name and try again.</source>
     <message>
         <location filename="../gui/transferlistwidget.cpp" line="1051"/>
         <source>Preview file...</source>
-        <translation>Огледай файла...</translation>
+        <translation>Преглед...</translation>
     </message>
     <message>
         <location filename="../gui/transferlistwidget.cpp" line="1053"/>
@@ -9759,25 +9759,25 @@ Please choose a different name and try again.</source>
         <location filename="../gui/transferlistwidget.cpp" line="1061"/>
         <source>Move up</source>
         <comment>i.e. move up in the queue</comment>
-        <translation>Нагоре в листата</translation>
+        <translation>Нагоре</translation>
     </message>
     <message>
         <location filename="../gui/transferlistwidget.cpp" line="1063"/>
         <source>Move down</source>
         <comment>i.e. Move down in the queue</comment>
-        <translation>Надолу в листата</translation>
+        <translation>Надолу</translation>
     </message>
     <message>
         <location filename="../gui/transferlistwidget.cpp" line="1065"/>
         <source>Move to top</source>
         <comment>i.e. Move to top of the queue</comment>
-        <translation>На върха на листата</translation>
+        <translation>Най-горе</translation>
     </message>
     <message>
         <location filename="../gui/transferlistwidget.cpp" line="1067"/>
         <source>Move to bottom</source>
         <comment>i.e. Move to bottom of the queue</comment>
-        <translation>На дъното на листата</translation>
+        <translation>Най-долу</translation>
     </message>
     <message>
         <location filename="../gui/transferlistwidget.cpp" line="1069"/>
@@ -9827,7 +9827,7 @@ Please choose a different name and try again.</source>
     <message>
         <location filename="../gui/transferlistwidget.cpp" line="1090"/>
         <source>Automatic mode means that various torrent properties(eg save path) will be decided by the associated category</source>
-        <translation>Автоматичен режим значи, че различни настройки на торент (н. пр. местоположение) ще бъдат решени от асоциираната категория</translation>
+        <translation>Автоматичен режим значи, че различни настройки на торент (н.пр. местоположение) ще бъдат решени от асоциираната категория</translation>
     </message>
     <message>
         <location filename="../gui/transferlistwidget.cpp" line="1092"/>
@@ -9849,12 +9849,12 @@ Please choose a different name and try again.</source>
         <location filename="../gui/transferlistwidget.cpp" line="1201"/>
         <source>Reset</source>
         <comment>Reset category</comment>
-        <translation>Нулиране</translation>
+        <translation>Нулирай</translation>
     </message>
     <message>
         <location filename="../gui/transferlistwidget.cpp" line="1223"/>
         <source>Tags</source>
-        <translation>Етикети</translation>
+        <translation>Етикет</translation>
     </message>
     <message>
         <location filename="../gui/transferlistwidget.cpp" line="1225"/>
@@ -9866,17 +9866,17 @@ Please choose a different name and try again.</source>
         <location filename="../gui/transferlistwidget.cpp" line="1228"/>
         <source>Remove All</source>
         <comment>Remove all tags</comment>
-        <translation>Изтриване Всички</translation>
+        <translation>Изтрий всички</translation>
     </message>
     <message>
         <location filename="../gui/transferlistwidget.cpp" line="1071"/>
         <source>Force recheck</source>
-        <translation>Включени проверки за промени</translation>
+        <translation>Направи проверка</translation>
     </message>
     <message>
         <location filename="../gui/transferlistwidget.cpp" line="1081"/>
         <source>Super seeding mode</source>
-        <translation>Режим на супер-даване</translation>
+        <translation>Режим на супер-отдаване</translation>
     </message>
     <message>
         <location filename="../gui/transferlistwidget.cpp" line="1083"/>
