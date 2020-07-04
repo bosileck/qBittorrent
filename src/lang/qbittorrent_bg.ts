@@ -2402,7 +2402,7 @@ Supports the formats: S01E01, 1x1, 2017.01.01 and 01.01.2017 (Date formats also 
     <message>
         <location filename="../gui/mainwindow.ui" line="99"/>
         <source>&amp;View</source>
-        <translation>&amp;Оглед</translation>
+        <translation>&amp;Преглед</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="180"/>
@@ -9733,7 +9733,7 @@ Please choose a different name and try again.</source>
     <message>
         <location filename="../gui/transferlistwidget.cpp" line="1051"/>
         <source>Preview file...</source>
-        <translation>Огледай файла...</translation>
+        <translation>Преглед...</translation>
     </message>
     <message>
         <location filename="../gui/transferlistwidget.cpp" line="1053"/>
